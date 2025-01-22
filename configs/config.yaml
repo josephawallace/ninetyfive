@@ -1,0 +1,10 @@
+base_currency: 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'
+buy_order_size: 7
+commitment_timeout_seconds: 30
+gcp_project_id: '770776431971'
+interval_seconds: 30
+max_retries_tx_monitor: 6
+quote_currency: '4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R'
+sell_order_size: 1
+sm_secret_key_name: 'secret_key'
+sm_secret_key_version: 1
